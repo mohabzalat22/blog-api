@@ -6,7 +6,7 @@ This API provides authentication, blog, category, and tag management functionali
 
 ## Base URL
 ```
-http://127.0.0.1/api
+https://roadmap.sh/projects/blogging-platform-api
 ```
 
 ---
